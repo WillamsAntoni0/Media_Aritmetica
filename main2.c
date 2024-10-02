@@ -25,6 +25,4 @@
      printf("\n Aluno reprovado"); 
    }
 
-   
-   
 }
